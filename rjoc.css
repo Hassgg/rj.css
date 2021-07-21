@@ -1,0 +1,88 @@
+<style>
+body{background: url("") no-repeat scroll top left  !important;}
+.header, .header.inside ,#header-aria{background: #ffdc2b;}
+<!-- خلفيه المربع الاول -->
+
+.header.sticky,#header-aria.sticky{background: #ffdc2b;}
+
+.header.home .menu-icon.sticky .line, .header.inside .menu-icon .line ,.menu-icon .line{
+	background-color:#ffdc2b ;
+}
+.off-menu-wrapper.header-6 .menu-icon .line ,.off-menu-wrapper.header-6 .menu-icon .line{
+	background-color: #ffdc2b;
+}
+#top-nav-2:not(.top-nav-3),.side-nav{
+background-color : #ffdc2b;
+}
+#top-nav-2.top-nav-3{
+background-color : #ffdc2b;
+}
+.search-blk .search-btn{background-color : #ffdc2b;}
+.search-blk form{box-shadow: 0 0 3px #ffdc2b;}
+#header-aria.sticky , .header-3 #header{
+    border-bottom-color:#ffdc2b;
+}
+.header-2 #searchform , .header-3 #searchform ,.search-blk .search-field{
+	background-color : ;
+	color : #ffdc2b;
+}
+.off-menu-wrapper.header-4.header-3 .main-area.row {
+	margin-top: 0;
+}
+#top-nav-2 ul li a:hover ,#top-nav-2 ul li.current_page_item a{
+    background-color:#ffdc2b;
+}
+.social-media.hidden-mobile a {
+    color:#ffdc2b;
+}
+
+.header .slogan,.top-nav ul li a ,.off-menu-wrapper.header-6 .date_header, .off-menu-wrapper.header-6 .soc-media a{color: #ffdc2b;}
+
+.main-area{width: 100%;background: url("صوره") no-repeat scroll top left #ffdc2b ;background-size: cover;}	.brief {color;}.top-nav.sticky, .header.inside .top-nav {background: #ffdc2b;}.search .btn,.search-blk .search-icon {background-image: url(صوره بحث);}
+/* اول لون الترويسه */
+body .footer{background: #2c60ae;}.footer .links a{color: #ffdc2b}.footer .copyrights {color: #ffdc2b;}.social-media a {border-color: #ffdc2b;background-color: #1100ff;color: #0018ff;}.back-to-top, .move-down {background-color: #0018ff;color: #ff1515;}
+.main-block {max-width: 900px;} 
+.brief {color;}
+.top-nav.sticky, .header.inside .top-nav {background: #0003ff;}
+.search .btn,.search-blk .search-icon {
+    background-image: url(صوره بحث);
+}
+<!-- الخلفيه لل الترويسه -->
+body .footer{background: #0003ff;}
+.footer .links a,.ftmn-col a{color: #002dff}
+.footer .copyrights,.footer-2 .copyright {color: #002dff;}
+.footer-2 .copyright {background-color:#002dff ;}
+.social-media a {
+	border-color: #cccccc;
+	
+	background-color: #ff00b2;
+	color: #ffc700;
+}
+.back-to-top, .move-down {
+	background-color: #ffbd15;
+	color: #ffffff;
+}
+
+.main-area.row.type-3 {
+	background-color:#15b6ff ;
+}
+.main-area.row.type-3 #searchbar {
+	width: calc(100% - 73px);
+}
+#hp_container_outer #search_home:not(.sticky) {
+	background-color: #002dff;
+	border-color: #3b00ff;
+}
+.main-area.row.type-3 .brief {
+	color:#1523ff ;
+}
+@media screen and (max-width: 767px){
+#hp_container_outer .search {
+	background-color:#ff00dc;
+}
+.main-area.row.type-3 #middle-block{
+  	background-color:#0042ff;  
+}
+}
+
+</style>
